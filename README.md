@@ -8,18 +8,18 @@ Repositorio para controlar los archivos generados durante el diplomado, para cad
 - Tablou Public
 - Power BI
 
-### Excel
+## Excel
 
-### SQL
+## SQL
 
-### Python
+## Python
 
 ## R
 
 ## Tablou Public
 
-### Power BI
+## Power BI
 
-## Conclusion
+### Conclusión
 
 
